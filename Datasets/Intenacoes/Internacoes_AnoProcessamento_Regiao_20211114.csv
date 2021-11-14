@@ -1,0 +1,21 @@
+ Procedimentos hospitalares do SUS - por local de internação - Brasil
+Internações por Região e Ano processamento
+Período:2010-2020
+"Região";"2010";"2011";"2012";"2013";"2014";"2015";"2016";"2017";"2018";"2019";"2020";"Total"
+"1 Região Norte";1011174;1001176;973631;1001866;981965;953750;941077;966571;992967;1015912;909604;10749693
+"2 Região Nordeste";3211310;3166990;3044964;3052710;3059136;3076448;3026220;3072343;3183806;3265487;2763119;33922533
+"3 Região Sudeste";4342659;4382524;4332845;4348944;4452977;4490327;4447764;4502335;4644696;4797859;4190614;48933544
+"4 Região Sul";1891360;1861977;1888922;1907189;1953406;1982321;2011678;2049378;2099036;2157463;1831767;21634497
+"5 Região Centro-Oeste";901462;868904;852227;886451;872803;874870;870329;879234;896136;945005;838659;9686080
+"Total";11357965;11281571;11092589;11197160;11320287;11377716;11297068;11469861;11816641;12181726;10533763;124926347
+ Fonte: Ministério da Saúde - Sistema de Informações Hospitalares do SUS (SIH/SUS)
+ Notas:
+ 
+ Dados referentes aos últimos seis meses, sujeitos a  atualização.
+ A partir do processamento de junho de 2012, houve mudança na classificação da natureza e esfera dos estabelecimentos. Com isso, temos que:
+      
+      Até maio de 2012 estas informações estão disponíveis como "Natureza" e "Esfera Administrativa".
+      De junho de 2012 a outubro de 2015, estão disponíveis tanto como "Natureza" e "Esfera Administrativa", como "Natureza Jurídica" e "Esfera Jurídica".
+      A partir de novembro de 2015, estão disponíveis como "Natureza Jurídica" e "Esfera Jurídica".
+      
+ 
