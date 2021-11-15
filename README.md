@@ -29,6 +29,7 @@ Durante todo o Bootcamp irei mergulhar no oceano da Ciência de Dados a partir d
 Os dados propostos inicialmente no Bootcamp foi dos de [Produção Hospitalar](https://datasus.saude.gov.br/acesso-a-informacao/producao-hospitalar-sih-sus//)  do [Tabnet - DATASUS](https://datasus.saude.gov.br/informacoes-de-saude-tabnet/).
 
 
+Você poderá encontrar o notebook completo [aqui](https://colab.research.google.com/drive/1-_KmIfm7T7pHrl8xTwGMnuIsOljGvy4M?usp=sharing)
 
 Resumo
 
@@ -56,8 +57,7 @@ A análise será realizada através do entendimento dos seguintes dados de **int
 Diante dos dados iniciais de valores gastos, vistos durante a atividade do primeiro módulo. Deduzo inicialmente que o número de internações afeta o valor gasto em procedimentos hospitalares diretamente. 
 
 Buscarei entender como se distribuem as internações para cada região, UF e como foram suas distribuições por complexidade.
-  
-  
+   
 ### **Conclusões:**
 
 Observei que minha hipótese inicial sobre a relação entre o número de internações e os valores gastos em procedimentos hospitalares estava errada.
