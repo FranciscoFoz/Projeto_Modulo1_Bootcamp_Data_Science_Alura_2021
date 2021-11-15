@@ -63,7 +63,7 @@ Buscarei entender como se distribuem as internações para cada região, UF e co
 Observei que minha hipótese inicial sobre a relação entre o número de internações e os valores gastos em procedimentos hospitalares estava errada.
 Mesmo que haja uma relação, ela não é diretamente ligada como havia imaginado.
 
-Consegui observar que as região sudeste, nordeste e sul possuem as maiores quantiades de internações.
+Consegui observar que as região sudeste, nordeste e sul possuem as maiores quantidades de internações.
 
 Dentre as UF's o estado de SP possui um grande volume a mais do que os demais estados. O que me fez verificar a proporção por habitante. Ao verificar por habitante encontrei uma maior proporcionalidade, com o estado do PR liderando. 
 
